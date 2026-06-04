@@ -3,3 +3,4 @@ pandas
 requests
 plotly
 statsmodels
+google-generativeai
